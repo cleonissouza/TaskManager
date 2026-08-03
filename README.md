@@ -31,6 +31,14 @@ The project focuses on building a solid foundation in Android development by imp
 * **Coroutines**
 * **Material Design Components**
 
+## 📸 Screenshots
+<img width="250" height="400" src="https://github.com/user-attachments/assets/71489ed3-57a8-4ef4-9cee-51b6a2b91a21" />
+<img width="250" height="400" src="https://github.com/user-attachments/assets/953eb3d0-bfa8-4b2e-b8da-468b264b5483" />
+<img width="250" height="400" src="https://github.com/user-attachments/assets/a1bf9947-13ad-40e5-b76f-d3a79065260a" />
+<img width="250" height="400" src="https://github.com/user-attachments/assets/846ce0b6-2e2f-430c-a423-6767a7dec2dd" />
+
+
+
 ## 📚 Learning Objectives
 
 This project was built to practice:
