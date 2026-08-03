@@ -54,7 +54,6 @@ app/
 │   ├── addtask/
 │   └── edittask/
 ├── viewmodel/
-└── database/
 ```
 
 ## 🎯 Purpose
